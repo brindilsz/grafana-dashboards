@@ -2409,15 +2409,3 @@ spec:
       "version": 1,
       "weekStart": ""
     }
-  resyncPeriod: 30s
-status:
-  conditions:
-    - lastTransitionTime: '2025-08-07T07:52:28Z'
-      message: Dashboard was successfully applied to 1 instances
-      observedGeneration: 1
-      reason: ApplySuccessful
-      status: 'True'
-      type: DashboardSynchronized
-  hash: c5780c1450d8195f58d347fb065af2c00b44030e7966fb86a21ec696c1e3b2f3
-  lastResync: '2025-08-16T02:46:43Z'
-  uid: dxkdT-eWz
